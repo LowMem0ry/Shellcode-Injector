@@ -19,4 +19,4 @@
 - [WaitForSingleObject()](https://learn.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-waitforsingleobject)
 
 # DEMO
-![Alt Text](https://github.com/Omorreg/Shellcode-Injector/blob/main/demo.gif)
+![Alt Text](https://github.com/Zextus/Shellcode-Injector/blob/main/demo.gif)
